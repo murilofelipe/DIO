@@ -48,4 +48,5 @@ public class AssertTest {
 		Integer aNumber = Integer.valueOf(768);
 		assertSame(aNumber,aNumber);
 	}
+	
 }
